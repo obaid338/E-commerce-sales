@@ -1,4 +1,3 @@
-Overview
 This repository contains the Power BI dashboard developed to track and analyze sales performance, customer behavior, and product trends for an eCommerce platform. The dashboard provides key insights that help businesses make data-driven decisions to optimize sales, improve customer retention, and forecast trends.
 
 Features
