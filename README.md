@@ -13,7 +13,7 @@ Installation
 
 Open the Power BI File:
 
-Navigate to the cloned directory and open the ecommerce_sales_dashboard.pbix file in Power BI Desktop.
+open the ecommerce_sales_dashboard.pbix file in Power BI Desktop.
 Connect to Data Sources:
 
 Update the data source credentials and paths if necessary to match your local environment.
@@ -28,11 +28,8 @@ Data Sources
 Kaggle
 Customizations
 Feel free to modify the dashboard to fit your specific needs:
-
-Add New Data Sources: Integrate additional data sources such as social media analytics or CRM systems.
 Customize Visuals: Adjust the visuals to match your brand’s design language or to highlight specific insights.
 Enhance Metrics: Create additional measures and calculations using DAX to suit your analysis requirements.
-Contributions
 Contributions are welcome! If you have suggestions for improvements or new features, please submit a pull request or open an issue.
 Contact
 For any questions or support, please reach out to Obaid Adnan at email: osyed650@gmail.com.
