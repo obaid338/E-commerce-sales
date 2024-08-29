@@ -11,11 +11,7 @@ Prerequisites
 Power BI Desktop: Download and install Power BI Desktop to view and edit the dashboard.
 Data Sources: The dashboard is built using data from Google Analytics, Shopify, and a SQL database. Ensure you have access to these data sources or modify the data connections to suit your environment.
 Installation
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
 Open the Power BI File:
 
 Navigate to the cloned directory and open the ecommerce_sales_dashboard.pbix file in Power BI Desktop.
